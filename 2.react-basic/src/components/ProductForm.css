@@ -1,0 +1,33 @@
+.new-product_controls{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background: lightgrey;
+    border-radius: 50px;
+
+}
+
+ .new-product_control label{
+    font-weight: bold;
+    margin: auto;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.new-product_control input{
+    font: inherit;
+    margin-bottom: auto;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+}
+
+.new-product_button {
+    margin-top: 10px;
+    width: 50%;
+    padding: 10px;
+    background: orange; 
+    border-radius: 50px;
+} 

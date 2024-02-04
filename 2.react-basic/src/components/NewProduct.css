@@ -1,0 +1,8 @@
+.new-product{
+    margin: auto;
+    width: 50%;
+    border: 20px solid green;
+    padding: 10px;
+    background: lightgrey;
+    border-radius: 50px;
+}

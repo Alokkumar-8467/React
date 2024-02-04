@@ -1,0 +1,39 @@
+.product-item{
+    display: flex;
+    border: 10px solid lightyellow;
+    margin: 5px;
+    padding-left: 20px;
+    background: darkgrey;
+    border-radius: 40px;
+
+}
+
+.title{
+    width: 100px;
+    padding-left: 20px;
+    background: tomato;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+
+.amount{
+    width: 100px;
+    padding-left: 20px;
+    background: tomato;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+.item{
+    width: 100px;
+    padding-left: 20px;
+    background: tomato;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+
+.button{
+    margin: auto;
+    width:100px;
+    height:40px;
+    background: orange; 
+}
